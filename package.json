@@ -1,0 +1,32 @@
+{
+  "name": "asynchronous_js_course",
+  "version": "1.0.0",
+  "description": "working with asynchronism in JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezamarronm/asynchronousJSCourse.git"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Eduardo Zamarrón <eduardo.zamarron.m@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezamarronm/asynchronousJSCourse/issues"
+  },
+  "homepage": "https://github.com/ezamarronm/asynchronousJSCourse#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
